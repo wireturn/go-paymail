@@ -15,6 +15,6 @@ require (
 	github.com/mrz1836/go-sanitize v1.1.5
 	github.com/mrz1836/go-validate v0.2.0
 	github.com/newrelic/go-agent/v3/integrations/nrhttprouter v1.0.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	golang.org/x/net v0.0.0-20210902165921-8d991716f632
 )
